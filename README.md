@@ -8,6 +8,10 @@
 </head>
 <body>
     <h1>    CASED    </h1>
+    <table>
+        <tr>Cased Merch</tr>
+        <tr>About</tr>
+    </table>
         <h2>For questions message Corey McRae. </h2>
 
         
