@@ -4,13 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
-    <title>Your Web App</title>
+    <title>CASED SHOPPING/title>
 </head>
 <body>
     <h1>    CASED    </h1>
     <table>
-        <tr>Cased Merch</tr>
-        <tr>About</tr>
+        <th>Cased Merch</th>
+        <th>About</th>
     </table>
         <h2>For questions message Corey McRae. </h2>
 
